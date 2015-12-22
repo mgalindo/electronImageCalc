@@ -1,0 +1,38 @@
+#################
+## WebStorm
+#################
+
+.idea/*
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+############
+## Node
+############
+
+node_modules/
+npm-debug.log
+
+############
+## Configuration
+############
+config/development.js
+config/production.js
+config/runtime.json
+
+############
+## Misc
+############
+test/out/
+logs/*.log
+*.pst
+/test/selenium
+content/**/*.styleguide.css
